@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ad0db237-effb-44a7-a509-470a528b87a5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="evaluate-news-nlp" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1WdYFovfjDhPXk4mD1JFnJFcEO4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="13.12.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/jest" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Jest.The response should be health - physical fitness&#10;">
+    <configuration name="The response should be health - physical fitness&#10;" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/client/js/test.js" />
+      <test-names>
+        <test-name value="The response should be health - physical fitness&#10;" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" uri="http://localhost:63342/evaluate-news-nlp/src/client/views/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Jest.The response should be health - physical fitness&#10;" />
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad0db237-effb-44a7-a509-470a528b87a5" name="Default Changelist" comment="" />
+      <created>1579481003644</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579481003644</updated>
+      <workItem from="1579481020169" duration="636000" />
+      <workItem from="1579952114846" duration="222000" />
+      <workItem from="1580375410206" duration="372000" />
+      <workItem from="1580539595852" duration="475000" />
+      <workItem from="1580618429442" duration="551000" />
+      <workItem from="1580875705471" duration="5663000" />
+      <workItem from="1581003831331" duration="944000" />
+      <workItem from="1581089224566" duration="173000" />
+      <workItem from="1581239850287" duration="313000" />
+      <workItem from="1581308530235" duration="355000" />
+      <workItem from="1581317582051" duration="3434000" />
+      <workItem from="1581482000516" duration="9375000" />
+      <workItem from="1581566213647" duration="50000" />
+      <workItem from="1581566303227" duration="1925000" />
+      <workItem from="1581578982411" duration="1162000" />
+      <workItem from="1581600690528" duration="5218000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="375" y="227" key="#Web_Browsers" timestamp="1580375868415">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="375" y="227" key="#Web_Browsers/0.0.1440.900@0.0.1440.900" timestamp="1580375868415" />
+    <state x="240" y="224" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580375874954">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="240" y="224" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1580375874954" />
+    <state x="483" y="260" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580878182620">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="483" y="260" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1580878182620" />
+    <state x="415" y="226" key="#com.intellij.ide.scriptingContext.ui.PerFileMappingsDialogWrapper" timestamp="1580876593650">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="415" y="226" key="#com.intellij.ide.scriptingContext.ui.PerFileMappingsDialogWrapper/0.0.1440.900@0.0.1440.900" timestamp="1580876593650" />
+    <state width="1414" height="232" key="GridCell.Tab.0.bottom" timestamp="1581663103579">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1414" height="232" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1581663103579" />
+    <state width="1414" height="232" key="GridCell.Tab.0.center" timestamp="1581663103575">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1414" height="232" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1581663103575" />
+    <state width="1414" height="232" key="GridCell.Tab.0.left" timestamp="1581663103571">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1414" height="232" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1581663103571" />
+    <state width="1414" height="232" key="GridCell.Tab.0.right" timestamp="1581663103577">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1414" height="232" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1581663103577" />
+    <state width="1379" height="278" key="GridCell.Tab.1.bottom" timestamp="1580375886783">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1379" height="278" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1580375886783" />
+    <state width="1379" height="278" key="GridCell.Tab.1.center" timestamp="1580375886782">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1379" height="278" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1580375886782" />
+    <state width="1379" height="278" key="GridCell.Tab.1.left" timestamp="1580375886781">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1379" height="278" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1580375886781" />
+    <state width="1379" height="278" key="GridCell.Tab.1.right" timestamp="1580375886782">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1379" height="278" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1580375886782" />
+    <state width="1379" height="278" key="GridCell.Tab.2.bottom" timestamp="1580375886784">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1379" height="278" key="GridCell.Tab.2.bottom/0.0.1440.900@0.0.1440.900" timestamp="1580375886784" />
+    <state width="1379" height="278" key="GridCell.Tab.2.center" timestamp="1580375886784">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1379" height="278" key="GridCell.Tab.2.center/0.0.1440.900@0.0.1440.900" timestamp="1580375886784" />
+    <state width="1379" height="278" key="GridCell.Tab.2.left" timestamp="1580375886783">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1379" height="278" key="GridCell.Tab.2.left/0.0.1440.900@0.0.1440.900" timestamp="1580375886783" />
+    <state width="1379" height="278" key="GridCell.Tab.2.right" timestamp="1580375886784">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1379" height="278" key="GridCell.Tab.2.right/0.0.1440.900@0.0.1440.900" timestamp="1580375886784" />
+    <state width="1379" height="278" key="GridCell.Tab.3.bottom" timestamp="1580375886786">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1379" height="278" key="GridCell.Tab.3.bottom/0.0.1440.900@0.0.1440.900" timestamp="1580375886786" />
+    <state width="1379" height="278" key="GridCell.Tab.3.center" timestamp="1580375886785">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1379" height="278" key="GridCell.Tab.3.center/0.0.1440.900@0.0.1440.900" timestamp="1580375886785" />
+    <state width="1379" height="278" key="GridCell.Tab.3.left" timestamp="1580375886785">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1379" height="278" key="GridCell.Tab.3.left/0.0.1440.900@0.0.1440.900" timestamp="1580375886785" />
+    <state width="1379" height="278" key="GridCell.Tab.3.right" timestamp="1580375886785">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1379" height="278" key="GridCell.Tab.3.right/0.0.1440.900@0.0.1440.900" timestamp="1580375886785" />
+    <state x="62" y="95" key="SettingsEditor" timestamp="1581482429058">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="62" y="95" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1581482429058" />
+    <state x="413" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1580539982474">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="413" y="282" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1580539982474" />
+    <state x="344" y="19" width="752" height="861" key="find.popup" timestamp="1581581237181">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="344" y="19" width="752" height="861" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1581581237181" />
+    <state x="375" y="0" width="1043" height="1120" key="search.everywhere.popup" timestamp="1586249332823">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="301" y="0" width="838" height="1032" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1581484261771" />
+    <state x="375" y="0" width="1043" height="1120" key="search.everywhere.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1586249332823" />
+    <state x="448" y="263" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1581578004438">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="448" y="263" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1440.900@0.0.1440.900" timestamp="1581578004438" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/client/js/formHandler.js</url>
+          <line>6</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
